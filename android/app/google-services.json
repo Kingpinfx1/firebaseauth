@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350494949308",
+    "project_id": "brewapp-738d5",
+    "storage_bucket": "brewapp-738d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350494949308:android:233b87d093606352f475b9",
+        "android_client_info": {
+          "package_name": "com.techwithkingpin.brewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350494949308-3orifprg7rmkv5erhr8cagfktlq8i75m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJwAM8tNABXEKPiaVMpJvdir4T4NwYxqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350494949308-3orifprg7rmkv5erhr8cagfktlq8i75m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
